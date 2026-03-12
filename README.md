@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sameer Shukla, a Data Scientist from Delhi.<br><br>🔭 I’m currently working on Data Science/ AI projects.<br>🌱 I’m learning AI/ML .<br>💬 Ask me about Machine learning basics and projects.<br>📫 How to reach me: [your contact details or social media links].<br>⚡ Fun fact: I build projects just to see what I can break before it works.<br>
+Hi, I'm Sameer Shukla, a Data Science Student from Delhi.<br><br>🔭 I’m currently working on Data Science/ AI projects.<br>🌱 I’m learning AI/ML .<br>💬 Ask me about Machine learning basics and projects.<br>📫 How to reach me: [your contact details or social media links].<br>⚡ Fun fact: I build projects just to see what I can break before it works.<br>
 
 
 ## 🌐 Socials:
